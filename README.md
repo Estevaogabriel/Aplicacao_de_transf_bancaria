@@ -1,21 +1,9 @@
 # Digital Innovation One - Prática .NET
 
-## POO na prática: criando uma aplicação
-
-[Slides](dio-dotnet-poo-lab-1.pdf)
-
 ## Contato
 
-Eliézer Zarpelão
+Estêvão Gabriel
 
-Linkedin:  [br.linkedin.com/in/eliezerzarpelao](http://br.linkedin.com/in/eliezerzarpelao)
+Linkedin:  [https://www.linkedin.com/in/est%C3%AAv%C3%A3o-gabriel-campelo-2a1637183/](https://www.linkedin.com/in/est%C3%AAv%C3%A3o-gabriel-campelo-2a1637183/)
 
-WebSite:  [eliezerzarpelao.eti.br](https://eliezerzarpelao.eti.br)
-
-Instagram:  [instagram.com/eliezerzarpelao](https://instagram.com/eliezerzarpelao)
-
-YouTube:  [youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g](https://www.youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g/featured?view_as=subscriber)
-
-Twitter:  [@eliezerzarpelao](https://twitter.com/eliezerzarpelao)
-
-Github:  [github.com/elizarp](https://github.com/elizarp)
+Github:  [github.com/Estevaogabriel](https://github.com/Estevaogabriel)
